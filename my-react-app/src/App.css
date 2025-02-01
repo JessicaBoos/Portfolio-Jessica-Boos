@@ -1,0 +1,36 @@
+body {
+  background-color: #93a2a9;
+}
+
+.info-container {
+  max-width: 1100px;
+
+  margin: 0 auto;
+  box-shadow: 0px 10px 10px #2b3035;
+  border-radius: 10px;
+  background-color: #b4c4ce;
+  padding: 50px;
+  margin-bottom: 30px;
+}
+
+.App header img {
+  box-shadow: 3px 3px #2b3035, -1em -0.5em 0.4em #93a2a9;
+  min-width: 300px;
+}
+
+.App header {
+  margin-top: 20px;
+}
+
+.App header .App-header-main {
+  font-weight: bold;
+  font-size: 50px;
+}
+
+a {
+  color: #2b3035;
+}
+
+.border {
+  box-shadow: 3px 3px #2b3035, -0.5em -0.5em 0.4em #93a2a9;
+}
