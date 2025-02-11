@@ -13,14 +13,14 @@ const RandomProjectLink = () => {
   };
 
   return (
-    <a
+    <button
       onClick={handleClick}
       className="nav-link active"
       target="_blank"
       rel="noreferrer"
     >
       Projekt
-    </a>
+    </button>
   );
 };
 
